@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ElGamal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ElGamal_jar</output-path>
+    <root id="archive" name="ElGamal.jar">
+      <element id="module-output" name="ElGamal" />
+    </root>
+  </artifact>
+</component>

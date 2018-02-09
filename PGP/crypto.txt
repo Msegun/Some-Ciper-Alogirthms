@@ -1,0 +1,25 @@
+/home/msegun/.gnupg/pubring.gpg
+-------------------------------
+pub   4096R/D39DC0E3 2014-10-28
+uid                  Michal Papis (RVM signing) <mpapis@gmail.com>
+uid                  Michal Papis <michal.papis@toptal.com>
+uid                  [jpeg image of size 5015]
+sub   2048R/C71866D7 2015-11-02
+sub   4096R/BF04FF17 2014-10-28 [wygasa: 2019-03-09]
+
+pub   4096R/39499BDB 2016-11-11
+uid                  Piotr Kuczynski <piotr.kuczynski@gmail.com>
+sub   4096R/6521FF17 2016-11-11
+
+pub   2048R/CD0843B7 2018-01-20 [wygasa: 2018-01-30]
+uid                  Krzysztof Borawski (laboratorium z kryptografii) <kborawski@sigma.ug.edu.pl>
+sub   2048R/516C7ABB 2018-01-20 [wygasa: 2018-01-30]
+
+pub   1024D/4DB19F11 2009-12-31
+uid                  Tadeusz Żeleński (Boy) <tzb@ziemianska.pl>
+sub   1024g/B5636C11 2009-12-31
+
+pub   1024R/E8CDB3D1 2018-01-14 [wygasa: 2018-02-13]
+uid                  Andrzej Borzyszkowski (Laboratorium z kryptografii) <a.borzyszkowski@inf.ug.edu.pl>
+sub   1024R/A95774D0 2018-01-14 [wygasa: 2018-02-13]
+
